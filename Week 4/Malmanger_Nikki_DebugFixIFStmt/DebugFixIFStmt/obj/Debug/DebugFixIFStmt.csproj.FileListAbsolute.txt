@@ -1,0 +1,13 @@
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week4\DebugFixIFStmt\DebugFixIFStmt\bin\Debug\DebugFixIFStmt.exe.config
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week4\DebugFixIFStmt\DebugFixIFStmt\bin\Debug\DebugFixIFStmt.exe
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week4\DebugFixIFStmt\DebugFixIFStmt\bin\Debug\DebugFixIFStmt.pdb
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week4\DebugFixIFStmt\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.exe
+C:\Users\Osama\OneDrive\Online Classes\4 SNHU\Dev\2015\IT-230\Me\LUs\Practices\Week4\DebugFixIFStmt\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.pdb
+C:\Users\kiera\Downloads\important\2025 - C4 (Jun - Aug)\Software Development with C#.NET\Week 4\Assignment 4\DebugFixIFStmt\DebugFixIFStmt\bin\Debug\DebugFixIFStmt.exe.config
+C:\Users\kiera\Downloads\important\2025 - C4 (Jun - Aug)\Software Development with C#.NET\Week 4\Assignment 4\DebugFixIFStmt\DebugFixIFStmt\bin\Debug\DebugFixIFStmt.exe
+C:\Users\kiera\Downloads\important\2025 - C4 (Jun - Aug)\Software Development with C#.NET\Week 4\Assignment 4\DebugFixIFStmt\DebugFixIFStmt\bin\Debug\DebugFixIFStmt.pdb
+C:\Users\kiera\Downloads\important\2025 - C4 (Jun - Aug)\Software Development with C#.NET\Week 4\Assignment 4\DebugFixIFStmt\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.csproj.AssemblyReference.cache
+C:\Users\kiera\Downloads\important\2025 - C4 (Jun - Aug)\Software Development with C#.NET\Week 4\Assignment 4\DebugFixIFStmt\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.exe.config
+C:\Users\kiera\Downloads\important\2025 - C4 (Jun - Aug)\Software Development with C#.NET\Week 4\Assignment 4\DebugFixIFStmt\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.csproj.CoreCompileInputs.cache
+C:\Users\kiera\Downloads\important\2025 - C4 (Jun - Aug)\Software Development with C#.NET\Week 4\Assignment 4\DebugFixIFStmt\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.exe
+C:\Users\kiera\Downloads\important\2025 - C4 (Jun - Aug)\Software Development with C#.NET\Week 4\Assignment 4\DebugFixIFStmt\DebugFixIFStmt\obj\Debug\DebugFixIFStmt.pdb

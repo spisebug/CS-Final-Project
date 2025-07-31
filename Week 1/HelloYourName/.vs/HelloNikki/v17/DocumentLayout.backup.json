@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kiera\\Downloads\\important\\2025 - C4 (Jun - Aug)\\Software Development with C#.NET\\Week 1\\HelloYourName\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F771F69-C75B-4B2B-8DF1-FF5D5F79CB03}|HelloYourName\\HelloNikki.csproj|c:\\users\\kiera\\downloads\\important\\2025 - c4 (jun - aug)\\software development with c#.net\\week 1\\helloyourname\\helloyourname\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F771F69-C75B-4B2B-8DF1-FF5D5F79CB03}|HelloYourName\\HelloNikki.csproj|solutionrelative:helloyourname\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F771F69-C75B-4B2B-8DF1-FF5D5F79CB03}|HelloYourName\\HelloNikki.csproj|c:\\users\\kiera\\downloads\\important\\2025 - c4 (jun - aug)\\software development with c#.net\\week 1\\helloyourname\\helloyourname\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F771F69-C75B-4B2B-8DF1-FF5D5F79CB03}|HelloYourName\\HelloNikki.csproj|solutionrelative:helloyourname\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kiera\\Downloads\\important\\2025 - C4 (Jun - Aug)\\Software Development with C#.NET\\Week 1\\HelloYourName\\HelloYourName\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HelloYourName\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kiera\\Downloads\\important\\2025 - C4 (Jun - Aug)\\Software Development with C#.NET\\Week 1\\HelloYourName\\HelloYourName\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "HelloYourName\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T01:25:54.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kiera\\Downloads\\important\\2025 - C4 (Jun - Aug)\\Software Development with C#.NET\\Week 1\\HelloYourName\\HelloYourName\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HelloYourName\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kiera\\Downloads\\important\\2025 - C4 (Jun - Aug)\\Software Development with C#.NET\\Week 1\\HelloYourName\\HelloYourName\\MainWindow.xaml*",
+              "RelativeToolTip": "HelloYourName\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-17T01:22:41.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
