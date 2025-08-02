@@ -1,8 +1,0 @@
-C:\Users\kiera\Downloads\important\2025 - C4 (Jun - Aug)\Software Development with C#.NET\Week 2\AddMultiplyFourInts\AddMultiplyFourInts\bin\Debug\AddMultiplyFourInts.exe.config
-C:\Users\kiera\Downloads\important\2025 - C4 (Jun - Aug)\Software Development with C#.NET\Week 2\AddMultiplyFourInts\AddMultiplyFourInts\bin\Debug\AddMultiplyFourInts.exe
-C:\Users\kiera\Downloads\important\2025 - C4 (Jun - Aug)\Software Development with C#.NET\Week 2\AddMultiplyFourInts\AddMultiplyFourInts\bin\Debug\AddMultiplyFourInts.pdb
-C:\Users\kiera\Downloads\important\2025 - C4 (Jun - Aug)\Software Development with C#.NET\Week 2\AddMultiplyFourInts\AddMultiplyFourInts\obj\Debug\AddMultiplyFourInts.csproj.AssemblyReference.cache
-C:\Users\kiera\Downloads\important\2025 - C4 (Jun - Aug)\Software Development with C#.NET\Week 2\AddMultiplyFourInts\AddMultiplyFourInts\obj\Debug\AddMultiplyFourInts.csproj.CoreCompileInputs.cache
-C:\Users\kiera\Downloads\important\2025 - C4 (Jun - Aug)\Software Development with C#.NET\Week 2\AddMultiplyFourInts\AddMultiplyFourInts\obj\Debug\AddMultiplyFourInts.exe
-C:\Users\kiera\Downloads\important\2025 - C4 (Jun - Aug)\Software Development with C#.NET\Week 2\AddMultiplyFourInts\AddMultiplyFourInts\obj\Debug\AddMultiplyFourInts.pdb
-C:\Users\kiera\Downloads\important\2025 - C4 (Jun - Aug)\Software Development with C#.NET\Week 2\AddMultiplyFourInts\AddMultiplyFourInts\obj\Debug\AddMultiplyFourInts.exe.config
